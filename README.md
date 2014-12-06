@@ -1,14 +1,18 @@
 ## Generated Plots
-**Plot 1**
+**[Plot 1](/figure/plot1.png)**
+
 ![plot1.png](/figure/plot1.png)
 
-**Plot 2**
+**[Plot 2](/figure/plot2.png)**
+
 ![plot2.png](/figure/plot2.png)
 
-**Plot 3**
+**[Plot 3](/figure/plot3.png)**
+
 ![plot3.png](/figure/plot3.png)
 
-**Plot 4**
+**[Plot 4](/figure/plot4.png)**
+
 ![plot4.png](/figure/plot4.png)
 
 
