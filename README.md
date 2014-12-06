@@ -1,3 +1,18 @@
+## Generated Plots
+**Plot 1**
+![plot1.png](/figure/plot1.png)
+
+**Plot 2**
+![plot2.png](/figure/plot2.png)
+
+**Plot 3**
+![plot3.png](/figure/plot3.png)
+
+**Plot 4**
+![plot4.png](/figure/plot4.png)
+
+
+
 ## General 
 * Place the 'household_power_consumption.txt' in your working directory. Don't rename the file. If you do rename it, then note the new name.
 * Ensure you have a directory named 'figure' in your working directory. This is where PNG plots will be saved.
