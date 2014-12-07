@@ -36,7 +36,7 @@ plot1 <- function(fileName = paste(getwd(),
   ## Now, read the file
   ##
   print("Loading data...")
-  cons_data <- read.csv('data/household_power_consumption.txt', 
+  cons_data <- read.csv(fileName, 
                         header = T, sep = ';', stringsAsFactors = T, 
                         colClasses = col_classes, na.strings = c('?'))
   print("Done.")
