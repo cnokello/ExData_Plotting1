@@ -73,7 +73,7 @@ plot3 <- function(fileName = paste(getwd(),
   ##
   legend('topright', col = c('black', 'red', 'blue'), 
          legend = c('Sub_metering_1', 'Sub_metering_2', 'Sub_metering_3'), 
-         lty = c(1, 1, 1), cex = 0.50)
+         lty = c(1, 1, 1), cex = 0.80)
   
   print("Done.")
   

@@ -92,7 +92,7 @@ plot4 <- function(fileName = paste(getwd(),
   ##
   legend('topright', col = c('black', 'red', 'blue'), 
          legend = c('Sub_metering_1', 'Sub_metering_2', 'Sub_metering_3'), 
-         lty = c(1, 1, 1), bty = 'n')
+         lty = c(1, 1, 1), bty = 'n', cex = 1.2)
   
   
   
